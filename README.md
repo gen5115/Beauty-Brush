@@ -7,7 +7,7 @@
 - **Home Page**: Features a welcoming design with a full-screen background image and prominent text highlighting the school's mission.
 - **Navigation Bar**: Includes links to various sections such as Home, About Us, Testimonials, login and sign up and Contact.
 - **Testimonials Section**: Allows users to view, submit, edit, and delete testimonials.
-- **Contact Form**: Enables users to get in touch with the school for inquiries or feedback.
+- **Contact us**: Enables users to get in touch with the school for inquiries or feedback.
 - **User Authentication**: Includes login and registration functionality for secure access to certain features.
 
 ## Technologies Used
