@@ -45,5 +45,5 @@ To get a local copy of the project up and running, follow these steps:
    Update the config.php file with your database credentials.
    
 6. Launch the website:
-   Use a local server like XAMPP or MAMP to run the PHP files and view the site.
+   Use a local server like XAMPP or WAMP to run the PHP files and view the site.
    Feel free to explore and contribute to the project. For any issues or suggestions, please open an issue or pull request.
